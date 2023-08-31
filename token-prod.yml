@@ -1,0 +1,4 @@
+jwt:
+  secret: "{cipher}ekqpreuorqiueriqeurpeqruqoruoqure"
+
+secret: "{cipher}akdjfalkejrkqjelkrqjeklrjelqer"
